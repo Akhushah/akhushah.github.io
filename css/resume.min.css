@@ -159,3 +159,14 @@ a:focus,
 a:hover {
     color: #278232
 }
+
+a.button-resume {
+    background-color: green;
+    position: fixed;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 5px;
+    right: 25px;
+    bottom: 25px;
+    text-decoration: none;
+  }
